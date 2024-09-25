@@ -15,3 +15,7 @@ Configure departments (Tickets, help desk vs system admin vs networking)
 Configure teams
 
 ![image](https://github.com/user-attachments/assets/2682ac79-408f-4513-bc6c-fae6a1680907)
+
+Configure Agents
+
+![image](https://github.com/user-attachments/assets/1b9795da-374a-4eb0-8a5a-1ea8b91b1589)
