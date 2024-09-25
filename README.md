@@ -19,3 +19,8 @@ Configure teams
 Configure Agents
 
 ![image](https://github.com/user-attachments/assets/1b9795da-374a-4eb0-8a5a-1ea8b91b1589)
+
+
+Configure users (customers)
+
+![image](https://github.com/user-attachments/assets/439f33d9-8d41-42ce-9d13-ac695730725f)
