@@ -24,3 +24,8 @@ Configure Agents
 Configure users (customers)
 
 ![image](https://github.com/user-attachments/assets/439f33d9-8d41-42ce-9d13-ac695730725f)
+
+Configure SLA 
+
+![image](https://github.com/user-attachments/assets/856d2b81-9eb0-4d3f-947d-a7a406742acf)
+
