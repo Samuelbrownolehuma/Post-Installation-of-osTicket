@@ -29,3 +29,8 @@ Configure SLA
 
 ![image](https://github.com/user-attachments/assets/856d2b81-9eb0-4d3f-947d-a7a406742acf)
 
+Configure help topic
+
+![image](https://github.com/user-attachments/assets/4a12f83e-9b7c-4444-ad19-a5bcd645390c)
+
+
